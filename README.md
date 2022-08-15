@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ruben !</h1>
-<h3 align="center">I am backend developer, currently working on .NET 6 and react.</h3>
+<h3 align="center">I'm a backend developer, currently working on .NET 6 and React.</h3>
 
 
 - 📙  I’m currently learning **Kubernetes**
@@ -12,7 +12,7 @@
 <a href="www.linkedin.com/in/ruben-ramos-dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rubenramosdev" height="30" width="30" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and tools:</h3>
 
 <table align="center">
   <tr>
